@@ -55,16 +55,17 @@ We will find recommendations for: Naruto
 2: Bleach (distance: 0.1783)  
 3: One Piece (distance: 0.1832)  
 4: Fairy Tail (distance: 0.1945)  
-5: Dragon Ball Z (distance: 0.2012)  
-📌 Future Improvements
+5: Dragon Ball Z (distance: 0.2012)
+
+## 📌 Future Improvements
 Deploy with Streamlit for an interactive UI
 
 Integrate content-based filtering (synopsis, genres, tags)
 
 Add hybrid recommendation system combining collaborative + content-based
 
-🤝 Contributing
+## 🤝 Contributing
 Pull requests are welcome! If you have ideas for improvements, feel free to open an issue.
 
-📜 License
+## 📜 License
 This project is licensed under the MIT License.
